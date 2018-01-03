@@ -1,2 +1,5 @@
 # hello-world
-Hello World project, a simple exercise
+
+__Hello World project, a simple exercise__
+
+Just another kick-starter for building new repos :blush:
